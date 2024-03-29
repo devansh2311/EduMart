@@ -2,3 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+#heading{
+    text-align: center;
+}
+
+.navbar{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
