@@ -8,6 +8,7 @@
 //         // Handle any errors
 //         console.error('Error:', error);
 //     });
+//
 
 fetch('/all')
     .then(response => response.json())
